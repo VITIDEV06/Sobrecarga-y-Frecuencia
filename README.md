@@ -42,7 +42,7 @@ El proyecto está organizado en diferentes carpetas, donde cada problema corresp
 | Información          | Detalle                                          |
 | -------------------- | ------------------------------------------------ |
 | **Autor**            | Victor Montes                                    |
-| **Materia**          | `PENDIENTE: colocar nombre exacto de la materia` |
+| **Materia**          | Herramientas De programacion Aplcada III |
 | **Lenguaje**         | C#                                               |
 | **Framework**        | .NET 10                                          |
 | **Fecha de entrega** | 6 de octubre de 2026                             |
