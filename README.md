@@ -4,7 +4,7 @@
 
 ### Ejercicios de programación en C# y .NET
 
-<img src="assets/banner.png" alt="Banner explicativo del proyecto" width="100%">
+<img src="assets/banner.jpg" alt="Banner explicativo del proyecto" width="100%">
 
 <br>
 
