@@ -58,10 +58,6 @@ El proyecto está organizado en diferentes carpetas, donde cada problema corresp
 
 > **Colocar aquí la imagen del Problema 1**
 
-```text
-assets/problema-1.png
-```
-
 <img src="assets/problema-1.png" alt="Problema 1" width="700">
 
 ### Descripción
@@ -91,12 +87,6 @@ El programa muestra por consola la cláusula generada.
 
 ### Imagen del ejercicio
 
-> **Colocar aquí la imagen del Problema 2**
-
-```text
-assets/problema-2.png
-```
-
 <img src="assets/problema-2.png" alt="Problema 2" width="700">
 
 ### Descripción
@@ -121,12 +111,6 @@ El resultado de la consulta se muestra por consola.
 ## Problema 3 — Frecuencia de lanzamiento de un dado
 
 ### Imagen del ejercicio
-
-> **Colocar aquí la imagen del Problema 3**
-
-```text
-assets/problema-3.png
-```
 
 <img src="assets/problema-3.png" alt="Problema 3 - Frecuencia de dados" width="700">
 
@@ -170,12 +154,6 @@ Debido a que los lanzamientos son aleatorios, los valores obtenidos pueden varia
 
 ### Imagen del ejercicio
 
-> **Colocar aquí la imagen del Problema 4**
-
-```text
-assets/problema-4.png
-```
-
 <img src="assets/problema-4.png" alt="Problema 4 - Sobrecarga de métodos" width="700">
 
 ### Descripción
@@ -213,12 +191,6 @@ Esto permite que C# determine qué implementación utilizar dependiendo del argu
 ## Problema 5 — Factorial mediante recursividad
 
 ### Imagen del ejercicio
-
-> **Colocar aquí la imagen del Problema 5**
-
-```text
-assets/problema-5.png
-```
 
 <img src="assets/problema-5.png" alt="Problema 5 - Factorial recursivo" width="700">
 
